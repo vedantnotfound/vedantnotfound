@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello I'm Vedant Founder of Anoncodes 🇮🇳<br>I’m a young and passionate developer from India! I enjoy learning new skills, building some awesome stuff, and make new connections! Currently, learning full stack web development in JavaScript! 😄<br>👀BBA-CA Student
+👋 Hello I'm Vedant Yengupatla <br>I’m a young and passionate developer from India! I enjoy learning new skills, building some awesome stuff, and make new connections! Currently, learning full stack web development in JavaScript! 😄<br>👀BBA-CA Student
 
 
 ## 🌐 Socials:
