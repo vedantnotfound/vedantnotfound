@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hello I'm Vedant Yengupatla<br>🚀I’m a young and passionate developer from India! I enjoy learning new skills, building some awesome stuff, and make new connections! Currently, learning full stack web development in JavaScript<br>🎒BBA-CA Student<br>👯 I’m looking to collaborate on Web Projects<br>🌱 I’m currently learning Node JS, Express & Mongo DB<br>
+👋 Hello I'm Vedant Yengupatla<br>🚀I’m a young and passionate developer from India! I enjoy learning new skills, building some awesome stuff, and make new connections! Currently, learning full stack web development<br>🎒BBA-CA Student<br>👯 I’m looking to collaborate on Web Projects<br>🌱 I’m currently learning Node JS, Express & Mongo DB<br>
 
 
 ## 🌐 Socials:
