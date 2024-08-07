@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 Front-End Web Developer with 3 years of experience.<br>Proficient in HTML, CSS, JavaScript, TailwindCSS, WordPress.<br>Expert in Shopify and Wix development.<br>Currently working at Sharp Multimedia Services PVT LTD.<br><br>Experienced in:<br>Developing and maintaining websites and applications.<br>Creating custom themes and plugins for Shopify and WordPress.<br>Designing and building responsive websites using Wix.<br>Implementing SEO strategies and optimizing website performance.<br><br>Built notable projects like:<br>Gymfy: Comprehensive gym management software.<br>Gharpohoch Bhaji: Mini e-commerce platform integrating WhatsApp for order management.<br>Codeslocator: Tools website including PIN code checker, IFSC code checker, SIP calculator, loan calculator, etc.<br><br>Actively learning Node.js and MongoDB to expand backend development skills.<br>Enthusiastic about continuous learning and staying updated with the latest web technologies and trends.
 
 
