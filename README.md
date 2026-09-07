@@ -1,6 +1,8 @@
 # 💫 About Me:
 Front-End Web Developer with 3 years of experience.<br>Proficient in HTML, CSS, JavaScript, TailwindCSS, WordPress.<br>Expert in Shopify and Wix development.<br>Currently working at Sharp Multimedia Services PVT LTD.<br><br>Experienced in:<br>Developing and maintaining websites and applications.<br>Creating custom themes and plugins for Shopify and WordPress.<br>Designing and building responsive websites using Wix.<br>Implementing SEO strategies and optimizing website performance.<br><br>Built notable projects like:<br>Gymfy: Comprehensive gym management software.<br>Gharpohoch Bhaji: Mini e-commerce platform integrating WhatsApp for order management.<br>Codeslocator: Tools website including PIN code checker, IFSC code checker, SIP calculator, loan calculator, etc.<br><br>Actively learning Node.js and MongoDB to expand backend development skills.<br>Enthusiastic about continuous learning and staying updated with the latest web technologies and trends.
 
+Building : gymnex.pro
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vedantt.notfound) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedanty) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/vedantnotfound) 
